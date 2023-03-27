@@ -35,7 +35,6 @@ private:
     int Efunc();
     int TFunc(bool isPrecrement);
     int CFunc(bool isPostcrement);
-    void match();
 
 public:
     Parser(std::string filename);

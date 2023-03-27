@@ -173,7 +173,3 @@ int Parser::CFunc(bool isPostcrement)
     std::__throw_invalid_argument("Error");
 }
 
-void Parser::match()
-{
-
-}
